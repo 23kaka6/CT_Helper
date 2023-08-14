@@ -13,6 +13,7 @@ that our proposed AI-assisted carbon trading models achieve good performance, hi
 carbon trading assistance.
 ![image](https://github.com/23kaka6/CT_Helper/assets/121601339/b26b7b3e-1ef4-4fac-9b43-be1c56946e6f)
 
+##data
  The abbreviations for carbon trading instruments
 from multiple exchanges are as follows: 
 BEA: beijing breen exchange; 
@@ -23,3 +24,6 @@ HBEA: hubei carbon emissions trading center;
 TJEA: tianjin emission rights exchange; 
 SHEA:shanghai environment and energy exchange; 
 SZA-2013: shenzhen emissions exchange.
+
+##model
+The data folder contains information from the aforementioned eight carbon trading institutions. The model folder, on the other hand, stores models that have been trained using six different sampling methods, using data sourced from the same eight carbon trading institutions.
