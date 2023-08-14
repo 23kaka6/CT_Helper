@@ -16,5 +16,5 @@ carbon trading assistance.
 
 
 ## model
-The model folder, on the other hand, stores models that have been trained using six different sampling methods, using data sourced from the same eight carbon trading institutions.
+The model folder, stores models that have been trained using six different sampling methods, using data sourced from the same eight carbon trading institutions.
 In the six sampling methods, all parameters are configured the same, except for vanilla and MLP, which do not have a fixed window size. Therefore, no window size is set for these methods. For the other sampling methods, the window size is set to 10. The remaining parameters are set as follows: batch_size=16, gamma=0.1, RMSize (Replay Memory Size)=16.
