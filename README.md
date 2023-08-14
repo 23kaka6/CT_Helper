@@ -11,3 +11,4 @@ majority of the trading scenarios. Compared to the Buy-and-Hold strategy,
 CT Helper yields superior results. The experimental results demonstrate
 that our proposed AI-assisted carbon trading models achieve good performance, highlighting the practical significance of real-world applications for
 carbon trading assistance.
+![image](https://github.com/23kaka6/CT_Helper/assets/121601339/b26b7b3e-1ef4-4fac-9b43-be1c56946e6f)
